@@ -111,3 +111,7 @@ coverage-karma
 # Allows devs to create their own devcontainer files
 /.devcontainer/*
 /!.devcontainer/.keep
+
+
+#Ignore vscode AI rules
+.github\instructions\codacy.instructions.md
